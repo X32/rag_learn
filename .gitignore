@@ -1,0 +1,24 @@
+# macOS metadata
+._*
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+venv/
+ENV/
+
+# Vector databases
+chroma_db*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
